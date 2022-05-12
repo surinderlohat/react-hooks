@@ -24,14 +24,9 @@ https://surinderlohat.github.io/react-hooks/
 
 ## How to use
 ```sh
-import { useHook } from '@surinderlohat/react-hooks';
+import { use hook Name here from API Documentation } from '@surinderlohat/react-hooks';
 
 ```
-
-## Live working Examples
-
-#### Basic validation with email validation
-https://codesandbox.io/s/lohat-react-form-validation-o216l
 
 ## License
 MIT **Free Software!**
