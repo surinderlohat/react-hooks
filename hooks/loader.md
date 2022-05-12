@@ -1,6 +1,6 @@
 # Use Loader
 
-User Loader Hook helps in showing the loader while making any API call or async operations.
+Use Loader Hook helps in showing the loader while making any API call or async operations.
 this hook will help in managing seprate loaders for api calls.
 
 ## Features
