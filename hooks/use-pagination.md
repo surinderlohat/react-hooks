@@ -94,8 +94,9 @@ export default PaginationHook;
 
 ```
 #### See More hooks from developer
-[click me](https://github.com/surinderlohat/react-hooks/blob/main/hooks/loader.md)
-![me](https://github.com/surinderlohat/react-hooks/blob/main/click%20here.gif)
+[See More Hooks](https://github.com/surinderlohat/react-hooks)
+![See More Hooks](https://github.com/surinderlohat/react-hooks/blob/main/click%20here.gif)
+
 
 
 ## License
