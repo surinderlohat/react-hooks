@@ -20,7 +20,7 @@ https://surinderlohat.github.io/react-hooks/
 | Hook Name |  DESCRIPTION | Details
 | ------ | ------ | ----- |
 | useLoader  | Show loader for async operations | [See more](https://github.com/surinderlohat/react-hooks/blob/main/hooks/loader.md)
-| usePagination  | Manage pagination with easy way | [See more]([https://github.com/surinderlohat/react-hooks/blob/main/hooks/loader.md](https://github.com/surinderlohat/react-hooks/blob/main/hooks/use-pagination.md))
+| usePagination  | Manage pagination with easy way | [See more](https://github.com/surinderlohat/react-hooks/blob/main/hooks/use-pagination.md)
 
 
 
