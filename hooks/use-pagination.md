@@ -1,4 +1,4 @@
-# React Hooks
+# Use Pagination
 
 Useful hooks for react JS, super easy to use and can handel all the major user cases.
 ##### Based on the React hooks and reactive programing.
@@ -93,6 +93,10 @@ export default PaginationHook;
 
 
 ```
+#### See More hooks from developer
+[click me](https://github.com/surinderlohat/react-hooks/blob/main/hooks/loader.md)
+![me](https://github.com/surinderlohat/react-hooks/blob/main/click%20here.gif)
+
 
 ## License
 MIT **Free Software!**
