@@ -47,11 +47,14 @@ const LoaderHook: FC = () => {
 export default LoaderHook;
 
 ```
-## Like This Hook ? 
+## Like This Hook ?  
 We have more for your:
-- [Use Pagination](https://github.com/surinderlohat/react-hooks/hooks/pagination)
+[See More Hooks](https://github.com/surinderlohat/react-hooks)
+![See More Hooks](https://github.com/surinderlohat/react-hooks/blob/main/click%20here.gif)
 
-## About Me
+
+## About Developer
 - [Surinder Lohat](https://github.com/surinderlohat)
 
-
+## License
+MIT **Free Software!**
