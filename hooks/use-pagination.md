@@ -23,6 +23,7 @@ yarn add @surinderlohat/react-hooks
 | showLoader | Make isLoading =true | Function
 | hideLoader | Make isLoading =false | Function
 | setPagingData | used to set pagination data i.e array of items pageSize, pageNumber and total number of records | Function
+| updatePagingData | used to set pagination data i.e array of items in case need to update anything is data item | Function
 | setPageSize | Number of records needs to get with each request i.e 10 ,20,30 | Function
 | goToNextPage | Next page navigation | Function
 | goToPreviousPage | Previous page navigation | Function
